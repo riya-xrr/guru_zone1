@@ -11,7 +11,9 @@ class _RequestReplyState extends State<RequestReply> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-
+        width: double.infinity,
+        height: double.infinity,
+        color: Color(0xB5B6C2DF),
       ),
     );
   }
